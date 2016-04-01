@@ -1,6 +1,6 @@
 name: jack roberts
 favicon: null
-layout_spectrum: 0.68908
+layout_spectrum: 0.74172
 typography_spectrum: 0.75871
 title: jack roberts
 cta:
@@ -22,8 +22,8 @@ color:
     - '#112530'
     - '#fbded0'
     - '#ca7f73'
-  brandStrength: 0.75
-  lightness: 0.75
-  saturation: 0.625
-  rhythmicContrast: 0.75
+  brandStrength: 0.8125
+  lightness: 0.875
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
