@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jack roberts]]></title>
-        <description><![CDATA[jack roberts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[jackroberts]]></title>
+        <description><![CDATA[jackroberts]]></description>
+        <link>http://jackroberts.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 21:10:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 21:12:03 GMT</lastBuildDate>
+        <atom:link href="http://jackroberts.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jack Roberts]]></title>
-            <description><![CDATA[<article><h1>Jack Roberts</h1><p>undefined</p></article>]]></description>
-            <link>undefinedjack-roberts/index.html</link>
+            <description><![CDATA[<article><h1>Jack Roberts</h1><p>author. actor. producer. father. chef.</p></article>]]></description>
+            <link>http://jackroberts.co/jack-roberts/index.html</link>
             <guid isPermaLink="false">6486c0ce-7c77-46ea-be90-aa2b1e112b43</guid>
-            <pubDate>Fri, 01 Apr 2016 21:10:28 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 21:11:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
